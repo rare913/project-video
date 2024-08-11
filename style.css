@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-image: url(./wp2159841-madara-uchiha-hd-wallpapers.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: aliceblue;
+}
+
+video {
+    margin: auto;
+    height: 400px;
+    width: 700px;
+
+}
+
+p {
+    font-size: x-large;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h1 {
+    margin-top: 60px;
+}
